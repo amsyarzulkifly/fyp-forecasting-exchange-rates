@@ -55,19 +55,19 @@ These models provide a strong statistical foundation and serve as reliable bench
 
 - **MYR/USD (ARIMA)**  
 <div align="left">
-  <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/3df55dbf-bbe1-40f3-9619-a0d2084413a1" />
+  <img src="https://github.com/amsyarzulkifly/fyp-forecasting-exchange-rates/raw/main/attachment/myr_to_usd_arima.PNG" alt="MYR to USD ARIMA" width="800" height="450"/>
   <p><em>Forecasted MYR/USD exchange rate using ARIMA model compared with actual 2023 values.</em></p>
 </div>  
 
 - **MYR/EUR (ARIMA)**  
 <div align="left">
-  <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/11ca6613-bffa-48de-9f68-acf82ac61554" />
+  <img src="https://github.com/amsyarzulkifly/fyp-forecasting-exchange-rates/raw/main/attachment/myr_to_eur_arima.PNG" alt="MYR to EUR ARIMA" width="800" height="450"/>
   <p><em>Forecasted MYR/EUR exchange rate using ARIMA model compared with actual 2023 values.</em></p>
 </div>  
 
 - **MYR/GBP (ARIMA)**  
 <div align="left">
-  <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/8c21636d-0b1d-423c-b1ca-ec035107c617" />
+  <img src="https://github.com/amsyarzulkifly/fyp-forecasting-exchange-rates/raw/main/attachment/myr_to_gbp_arima.PNG" alt="MYR to GBP ARIMA" width="800" height="450"/>
   <p><em>Forecasted MYR/GBP exchange rate using ARIMA model compared with actual 2023 values.</em></p>
 </div>  
 
@@ -75,19 +75,19 @@ These models provide a strong statistical foundation and serve as reliable bench
 
 - **MYR/USD (DARIMA)**  
 <div align="left">
-  <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/ddeff355-c4fe-43f5-9407-7dc6a97ef72c" />
+  <img src="https://github.com/amsyarzulkifly/fyp-forecasting-exchange-rates/raw/main/attachment/myr_to_usd_darima.PNG" alt="MYR to USD DARIMA" width="800" height="450"/>
   <p><em>Forecasted MYR/USD exchange rate using DARIMA model compared with actual 2023 values.</em></p>
 </div>  
 
 - **MYR/EUR (DARIMA)**  
 <div align="left">
-  <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/b94d8345-69ef-4ee9-a83e-4ae687257e28" />
+  <img src="https://github.com/amsyarzulkifly/fyp-forecasting-exchange-rates/raw/main/attachment/myr_to_eur_darima.PNG" alt="MYR to EUR DARIMA" width="800" height="450"/>
   <p><em>Forecasted MYR/EUR exchange rate using DARIMA model compared with actual 2023 values.</em></p>
 </div>  
 
 - **MYR/GBP (DARIMA)**  
 <div align="left">
-  <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/650efde2-57e8-4281-a382-e1a838988a4f" />
+  <img src="https://github.com/amsyarzulkifly/fyp-forecasting-exchange-rates/raw/main/attachment/myr_to_gbp_darima.PNG" alt="MYR to GBP DARIMA" width="800" height="450"/>
   <p><em>Forecasted MYR/GBP exchange rate using DARIMA model compared with actual 2023 values.</em></p>
 </div>  
 
