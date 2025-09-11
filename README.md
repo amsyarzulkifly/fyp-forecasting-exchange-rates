@@ -47,6 +47,8 @@ These models provide a strong statistical foundation and serve as reliable bench
 - Both models produced reliable forecasts, with actual 2023 values falling within their confidence intervals.  
 - External factors such as geopolitical conflicts and monetary policies strongly influence MYR movements, highlighting the limits of purely statistical models.  
 
+---
+
 ## 🖼️ Visualizations  
 
 ### 📈 ARIMA Forecasts  
@@ -68,8 +70,6 @@ These models provide a strong statistical foundation and serve as reliable bench
   <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/8c21636d-0b1d-423c-b1ca-ec035107c617" />
   <p><em>Forecasted MYR/GBP exchange rate using ARIMA model compared with actual 2023 values.</em></p>
 </div>  
-
----
 
 ### 📈 DARIMA Forecasts  
 
@@ -119,11 +119,11 @@ These models provide a strong statistical foundation and serve as reliable bench
 | Mean Absolute Error (MAE)       | 0.0454 | 0.0257 |  
 | Mean Absolute Percentage Error (MAPE) | 0.9040 | 0.6795 |  
 
+## 🚀 Conclusion  
+This study demonstrates that both ARIMA and DARIMA models can forecast MYR exchange rates effectively, but DARIMA provides better accuracy for large and complex datasets. The findings contribute to a deeper understanding of time series forecasting in finance and can assist policymakers, investors, and financial analysts in decision-making and risk management.  
+
 ## 📌 Tools Used  
 - **R Programming**  
 - **Tidyverse & Tsibble** for data manipulation and visualization  
 - **Forecast & Fable** packages for ARIMA and DARIMA modeling  
 - **Zoo** package for handling missing values  
-
-## 🚀 Conclusion  
-This study demonstrates that both ARIMA and DARIMA models can forecast MYR exchange rates effectively, but DARIMA provides better accuracy for large and complex datasets. The findings contribute to a deeper understanding of time series forecasting in finance and can assist policymakers, investors, and financial analysts in decision-making and risk management.  
